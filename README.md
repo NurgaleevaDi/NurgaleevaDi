@@ -1,6 +1,6 @@
 ## Привет :v:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+develop)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg)
 
 <div id="header" align="left"> 
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
