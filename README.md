@@ -29,6 +29,19 @@
   
 </div>
 
+###  :microscope: Что планирую изучить:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="40" heigth="40"/>
+
+### :fire: Моя статистика:
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=nurgaleevadi&theme=dark&background=000000)" />
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nurgaleevadi">
+
+### 📫 Контакты:
+
+NurgaleevaDK@yandex.ru
+
 
 <!--
 **NurgaleevaDi/NurgaleevaDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
