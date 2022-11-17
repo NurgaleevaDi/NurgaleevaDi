@@ -44,9 +44,9 @@
 
 [![codewars](https://www.codewars.com/users/DianaNurgaleeva/badges/small)](https://www.codewars.com/users/DianaNurgaleeva)
 
-### 📫 Контакты:
+<!-- ### 📫 Контакты:
 
-NurgaleevaDK@yandex.ru
+NurgaleevaDK@yandex.ru -->
 
 
 <!--
