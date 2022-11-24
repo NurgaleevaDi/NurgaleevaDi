@@ -1,9 +1,11 @@
-## Привет :v:
+<!-- ## Привет :v: -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg) -->
 
 <div id="header" align="left"> 
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
+  
+  <img src="https://media.giphy.com/media/KGBH1gnt7xunPglgGF/giphy.gif" width="200"/>
+<!--   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/> -->
 </div>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=nurgaleevadi&style=flat-square&color=blue" alt=""/> -->
@@ -36,7 +38,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="40" heigth="40"/>
 
 ### :fire: Моя статистика:
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=nurgaleevadi&theme=dark&background=000000)" />
+<!-- <img src = "http://github-readme-streak-stats.herokuapp.com?user=nurgaleevadi&theme=dark&background=000000)" /> -->
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nurgaleevadi">
 
