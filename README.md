@@ -9,14 +9,14 @@
 
   <!-- <img src="https://komarev.com/ghpvc/?username=nurgaleevadi&style=flat-square&color=blue" alt=""/> -->
 
-### :white_check_mark: Обо мне:
-_____
+## :white_check_mark: Обо мне:
+
 
 Прошла обучение на курсе Веб-разработка (Яндекс-Практикум). Мой наставник в конце курса сказал: "Ты сейчас только на вершине айсберга, надо не останавливаться на достигнутом и развиваться дальше". Да, и это захватывает, когда ты на вершине и перед тобой не объятный мир IT 
 
 
-### :white_check_mark: Технологии и навыки:
-_____
+## :white_check_mark: Технологии и навыки:
+
 <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" width="40" heigth="40"/>
@@ -34,8 +34,7 @@ _____
   
 </div>
 
-###  :white_check_mark: Что планирую изучить:
-_____
+##  :white_check_mark: Что планирую изучить:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" width="40" heigth="40"/>
@@ -43,8 +42,7 @@ _____
 </div>
 
 
-### :white_check_mark: Моя статистика:
-_____
+## :white_check_mark: Моя статистика:
 
 <!-- <img src = "http://github-readme-streak-stats.herokuapp.com?user=nurgaleevadi&theme=dark&background=000000)" /> -->
 
@@ -55,8 +53,8 @@ _____
 [![codewars](https://www.codewars.com/users/DianaNurgaleeva/badges/small)](https://www.codewars.com/users/DianaNurgaleeva)
 
 
-<!-- ### :white_check_mark: Контакты:
-_____
+<!-- ## :white_check_mark: Контакты:
+
 NurgaleevaDK@yandex.ru -->
 
 
