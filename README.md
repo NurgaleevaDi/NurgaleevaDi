@@ -14,9 +14,9 @@
 
 Прошла обучение на курсе Веб-разработка (Яндекс-Практикум). Мой наставник в конце курса сказал: "Ты сейчас только на вершине айсберга, надо не останавливаться на достигнутом и развиваться дальше". Да, и это захватывает, когда ты на вершине и перед тобой не объятный мир IT 
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/My telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</div>
+  <a href="https://t.me/DianaNurgaleeva" target="_blank">
+    <img src="https://img.shields.io/badge/My telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
 ## :white_check_mark: Технологии и навыки:
 
