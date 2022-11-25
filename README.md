@@ -2,22 +2,22 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg) -->
 
-<div id="header" align="left"> 
-  
+<div id="header" align="left">   
   <img src="https://media.giphy.com/media/KGBH1gnt7xunPglgGF/giphy.gif" width="200"/>
-<!--   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/> -->
+  <!--   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/> -->
 </div>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=nurgaleevadi&style=flat-square&color=blue" alt=""/> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=nurgaleevadi&style=flat-square&color=blue" alt=""/> -->
 
-### 🚀 Обо мне:
-Прошла обучение на курсе Веб-разработка (Яндекс-Практикум). Мой наставник в конце курса сказал: "Ты сейчас только на вершине айсберга, надо не останавливаться на достигнутом и развиваться дальше". Да, и это захватывает, когда ты на вершине и перед тобой не объятный мир IT :green_heart:
+### :white_check_mark: Обо мне:
+_____
+
+Прошла обучение на курсе Веб-разработка (Яндекс-Практикум). Мой наставник в конце курса сказал: "Ты сейчас только на вершине айсберга, надо не останавливаться на достигнутом и развиваться дальше". Да, и это захватывает, когда ты на вершине и перед тобой не объятный мир IT 
 
 
-### :hammer_and_wrench: Технологии и навыки:
-
+### :white_check_mark: Технологии и навыки:
+_____
 <div>
- 
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" width="40" heigth="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" width="40" heigth="40"/>
@@ -34,14 +34,18 @@
   
 </div>
 
-###  :microscope: Что планирую изучить:
+###  :white_check_mark: Что планирую изучить:
+_____
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" width="40" heigth="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="40" heigth="40"/>
 </div>
 
 
-### :fire: Моя статистика:
+### :white_check_mark: Моя статистика:
+_____
+
 <!-- <img src = "http://github-readme-streak-stats.herokuapp.com?user=nurgaleevadi&theme=dark&background=000000)" /> -->
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nurgaleevadi">
@@ -50,22 +54,11 @@
 
 [![codewars](https://www.codewars.com/users/DianaNurgaleeva/badges/small)](https://www.codewars.com/users/DianaNurgaleeva)
 
-<!-- ### 📫 Контакты:
 
+<!-- ### :white_check_mark: Контакты:
+_____
 NurgaleevaDK@yandex.ru -->
 
 
 <!--
 **NurgaleevaDi/NurgaleevaDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
