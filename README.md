@@ -53,7 +53,9 @@
 
 <!-- [![codewars](https://www.codewars.com/users/DianaNurgaleeva/badges/large)](https://www.codewars.com/users/DianaNurgaleeva)-->
 
-[![codewars](https://www.codewars.com/users/DianaNurgaleeva/badges/small)](https://www.codewars.com/users/DianaNurgaleeva)
+### Codewars
+
+![codewars](https://www.codewars.com/users/rsschool_fef7bf0a3db3a9b2/badges/micro)
 
 
 <!-- ## :white_check_mark: Контакты:
