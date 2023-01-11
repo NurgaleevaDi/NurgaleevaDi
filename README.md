@@ -44,6 +44,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="40" heigth="40"/>
 </div>
 
+В настоящий момент прохожу курс JS/FE RS School
+
 
 ## :white_check_mark: Моя статистика:
 
