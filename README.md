@@ -51,7 +51,7 @@
 
 <!-- <img src = "http://github-readme-streak-stats.herokuapp.com?user=nurgaleevadi&theme=dark&background=000000)" /> -->
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nurgaleevadi">
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nurgaleevadi"> -->
 
 <!-- [![codewars](https://www.codewars.com/users/DianaNurgaleeva/badges/large)](https://www.codewars.com/users/DianaNurgaleeva)-->
 
